@@ -1,7 +1,7 @@
 FactoryGirl .define do
 	factory :user do
 		name "rocLv"
-		email "rocLv@qq.com"
+		email "roLv@qq.com"
 		password "foobar"
 		password_confirmation "foobar"
 	end
